@@ -24,22 +24,17 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 
 ### ER Diagram and Relational Schema is also provided as PDF's. 
 
-## Istallation Guide:
-1. Clone the whole repository to your localhost folder.
-2. Launch XAMPP (or any other similar service) and start Apache, My SQL
-3. Goto phpmyadmin and create a database named **370project** and then import the file named **370project.sql**
-4. Then launch the site.
-
 ## Login Info:
 ### Admin Panel:
+default passwords:
 ID: admin
 
 Pass: admin
 
 ### User Panel:
-ID: User's Email Address
 
+ID: User's Email Address
+default passwords:
 Pass: 1234 (By Default, User can change if they wish)
 
 
-Ignore the noob level coding. ^_^
