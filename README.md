@@ -36,5 +36,10 @@ Pass: admin
 ID: User's Email Address
 default passwords:
 Pass: 1234 (By Default, User can change if they wish)
+### demo video of the working applicaation
 
+
+
+
+https://github.com/kunj9677/Employee-management-system-/assets/90337149/651dcc40-098b-4439-a5d9-03fe6f5c7fb7
 
